@@ -1,1 +1,1 @@
-# Amazon-clone-React-
+# Gatsby theme
